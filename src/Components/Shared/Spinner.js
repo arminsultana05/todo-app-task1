@@ -3,7 +3,7 @@ import './Spinner.css'
 
 const Spinner = () => {
   return (
-    <div class="loader"><span></span></div>
+    <div class="loader mx-auto mt-20"><span></span></div>
   )
 }
 
